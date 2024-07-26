@@ -16,24 +16,31 @@ Aspiring Software Developer
 
 📫 How to reach me: mparthasarathy0000@gmail.com
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/ParthaSara3109?t=A9y7y1Ile-Dqh8hwbswPaQ&s=08) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/partha-sarathy-026121273)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mparthasarathy0000@gmail.com)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mparthasarathy0000@gmail.com" />
 
 
 😄 Pronouns: Developer
 
 ## I code in:
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![SpringBoot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![SpringBoot](https://img.icons8.com/color/48/000000/spring-logo.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 ## IDE and Tools I Use:
-- ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code
-- ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse
-- ![MySQL Workbench](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL Workbench
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
+<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+<img height="50" src="https://github.com/user-attachments/assets/a5943962-19b5-4b34-9c73-684b063d2cb6"/>
+<img height="50" src="https://github.com/user-attachments/assets/8d61a6b9-4a20-443e-aab7-7368cb0e11d2"/>
 
 *This README was generated with ❤️ by Partha Sarathy.*
+
+![image](https://github.com/user-attachments/assets/09cc8aba-0938-4c71-b129-ab277d8af918)
+![image](https://github.com/user-attachments/assets/e17657c8-719d-4166-a49f-9b7e0538aa08)
+![image](https://github.com/user-attachments/assets/d1868a70-ef21-45f8-8609-c3a663666cf1)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Partha-2&bg_color=000000&color=f2f2f2&line=1eff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
