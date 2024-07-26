@@ -2,6 +2,7 @@
 
 Hi there 👋 It's me, Partha Sarathy
 Aspiring Software Developer
+<img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/2f2ee804-cc50-4e92-a497-a766bb4a16df">
 
 🔭 Here's my [portfolio](https://portfolio-60030162551.development.catalystserverless.in/app/index.html)
 
@@ -14,8 +15,11 @@ Aspiring Software Developer
 💬 Ask me about Tech
 
 📫 How to reach me: mparthasarathy0000@gmail.com
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/ParthaSara3109?t=A9y7y1Ile-Dqh8hwbswPaQ&s=08) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/partha-sarathy-026121273)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mparthasarathy0000@gmail.com)
 
-😄 Pronouns: Techie
+
+😄 Pronouns: Developer
 
 ## I code in:
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
@@ -31,15 +35,5 @@ Aspiring Software Developer
 - ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse
 - ![MySQL Workbench](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL Workbench
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
-
----
-
-## Connect with me:
-- [Twitter](https://x.com/ParthaSara3109?t=A9y7y1Ile-Dqh8hwbswPaQ&s=08)
-- [LinkedIn](https://www.linkedin.com/in/partha-sarathy-026121273)
-
-Feel free to explore my projects and reach out to me at mparthasarathy0000@gmail.com if you have any questions or collaboration ideas!
-
----
 
 *This README was generated with ❤️ by Partha Sarathy.*
